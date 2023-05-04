@@ -1,5 +1,5 @@
 # Personal-Website
 
-Add
-Commit
-Push
+## Add the changes
+## Commit - name it 
+Push - to github
